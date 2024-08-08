@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class QuizApplication {
+public class Main {
     static class Question {
         String questionText;
         String[] options;
